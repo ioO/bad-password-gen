@@ -6,8 +6,6 @@ parser.add_argument('len', type=int, help='Length of password')
 
 args = parser.parse_args()
 
-password = str()
-while len(password) < args.len:
-    password = password + str(random.randint(0, 9))
+password = ''.join('%d' % random.randint(0,9) for i in xrange(args.len))
 
 print(password)
