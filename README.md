@@ -11,6 +11,12 @@ use it except if you can not do on others ways. As too many services ask me to u
 this script. The name bpwgen means _bad password generator_ and it refers to [pwgen][1] which is a great tool to 
 generate strong password.
 
+## Usage
+
+This script works with python 3 and python 2.
+
+    >python bpwgen.py 10 
+
 ## Licence
 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
@@ -25,4 +31,4 @@ as the name is changed.
 
 0. You just DO WHAT THE FUCK YOU WANT TO.
 
-[1] http://sourceforge.net/projects/pwgen/
+[1]: http://sourceforge.net/projects/pwgen/
