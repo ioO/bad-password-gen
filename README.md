@@ -4,7 +4,7 @@ A python script to generate numeric password of desired length.
 
 ## WARNING
 
-*Please consider to use tool like [pwgen][1] first and this one only in case of WTF.*
+**Please consider to use tool like [pwgen][1] first and this one only in case of WTF.**
 
 This a bad idea to use this program to generate password for website. But sometimes bad ideas are to be done. Do not 
 use it except if you can not do on others ways. As too many services ask me to use numeric passwords thoses days, I did 
